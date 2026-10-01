@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["https://script.google.com", "https://*.googleusercontent.com", "https://*.script.googleusercontent.com"],
+    "method": ["GET", "HEAD"],
+    "responseHeader": ["Content-Type", "Range"],
+    "maxAgeSeconds": 86400
+  }
+]
